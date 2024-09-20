@@ -5,5 +5,7 @@ public class hello{
         System.out.println("Hi everyone, I'm Lam");
 
         System.out.println("I'm from Viet Nam");
+
+        System.out.println("Nice to meet you");
     }
 }
